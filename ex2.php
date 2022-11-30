@@ -18,7 +18,7 @@ Class PROFESSION {
  function __construct($player)
      {
     $this->name =  $player;
-    //$this->Name2 = $player2;
+    //$this->Name2 = $player2;  
 
  }
 function  GetPlayer(){
